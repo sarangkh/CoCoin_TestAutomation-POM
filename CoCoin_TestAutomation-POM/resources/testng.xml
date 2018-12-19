@@ -1,0 +1,17 @@
+<suite name="Todoist Test Automation">
+	
+	
+	<test name="ProjectCreationTest" allow-return-values="true">
+		<classes>
+			<class name="test.ProjectCreationTest" />
+		</classes>
+	</test>
+	
+	<test name="CreateTaskTest" allow-return-values="true">
+	<classes>
+		<class name="test.CreateTaskTest" />
+	</classes>
+	</test>
+
+</suite>
+
